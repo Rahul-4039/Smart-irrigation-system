@@ -24,8 +24,8 @@ Built using Flutter, compatible with Android only
 
 
 🧠 Technologies Used :
-Flutter (Dart) for frontend
-Firebase
-Excel / CSV Writer Packages
-IoT Sensors (Soil Moisture, Humidity)
+Flutter (Dart) for frontend,
+Firebase,
+Excel / CSV Writer Packages,
+IoT Sensors (Soil Moisture, Humidity),
 Microcontroller (ESP8266 - Wifi Module)
