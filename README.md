@@ -35,4 +35,5 @@ Microcontroller (ESP8266 - Wifi Module)
 1. Clone the repo
 2. Install dependencies : 'flutter pub get'
 3. Run the app : flutter run
+4. Make sure your IoT device and backend (MQTT/Firebase) are properly configured.
 
