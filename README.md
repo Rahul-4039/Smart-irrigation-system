@@ -29,3 +29,10 @@ Firebase,
 Excel / CSV Writer Packages,
 IoT Sensors (Soil Moisture, Humidity),
 Microcontroller (ESP8266 - Wifi Module)
+
+
+🚀 Getting Started :
+1. Clone the repo
+2. Install dependencies : 'flutter pub get'
+3. Run the app : flutter run
+
